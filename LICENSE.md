@@ -1,5 +1,3 @@
-Custom Roblox Script License
-
 Copyright (c) 2026 @Book
 
 Permission is granted to use this script for personal and educational purposes only.
